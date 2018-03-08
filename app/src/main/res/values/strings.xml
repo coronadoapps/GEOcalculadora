@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Geometría calculadora</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="cuadrado">CUADRADO</string>
+    <string name="circulo">CÍRCULO</string>
+    <string name="triangulo">TRIÁNGULO</string>
+    <string name="cubo">CUBO</string>
+    <string name="valores">Ingreso =</string>
+    <string name="valor">valor</string>
+    <string name="perimetro">El perímetro es </string>
+    <string name="area">El área es </string>
+    <string name="volumen">El volumen es</string>
+    <string name="start">Seleccione la figura a calcular:</string>
+    <string name="titulo">ESCOGER:</string>
+</resources>
